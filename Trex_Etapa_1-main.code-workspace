@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "Trex_Etapa_0-main"
+		},
+		{
+			"path": "C19_LP_AA1-main"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "Trex_Etapa_0-main"
+	}
+}
